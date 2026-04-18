@@ -2,7 +2,7 @@
 Data Analyst - Agustin Mata
 ---
 ___
-Data & BI Specialist | SQL | Python | R | Power BI | AWS
+Data & BI Specialist | SQL | Python | R | Power BI
 
 With 6+ years of experience turning raw data into strategic results, I specialize in:
 Database optimization – PostgreSQL, MySQL, SQL Server, MariaDB
