@@ -1,8 +1,11 @@
 #
-Data Analyst - Agustin Mata
+Mechatronic Engineer - Neiro Vilchez
 ---
 ___
+https://ve.linkedin.com/in/neirovilchez
+
 Data & BI Specialist | SQL | Python | R | Power BI
+
 
 With 6+ years of experience turning raw data into strategic results, I specialize in:
 Database optimization – PostgreSQL, MySQL, SQL Server, MariaDB
