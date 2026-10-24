@@ -26,8 +26,3 @@ Projects
 https://github.com/RafaelZero/Projects
 
 ___
-
-Certificates
----
-https://github.com/RafaelZero/Folio/tree/main/Certificates
-___
