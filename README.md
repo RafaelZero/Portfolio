@@ -24,8 +24,6 @@ Projects
 ---
 * Github:
 https://github.com/RafaelZero/Projects
-* Notion:
-https://rafaelmv.notion.site/Portafolio-092459ff3fdc490bb6e7ed80f25eb08c
 
 ___
 
